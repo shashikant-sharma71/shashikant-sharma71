@@ -5,7 +5,7 @@
 <h2 align="center" style="color: #FF4500;"> Python Developer | Frontend Enthusiast | Lifelong Learner</h2>
 
 <p align="center" style="max-width: 800px; margin: 0 auto; font-size: 1.2em; line-height: 1.6; text-align: justify; padding: 20px; border-radius: 10px; background: rgba(255, 69, 0, 0.1);">
-  I am a passionate Python developer with a solid foundation in Core Python and a growing interest in frontend technologies. My mission is to create seamless and engaging user experiences through innovative solutions and technical excellence.
+I am a  Python developer with a strong foundation in Core Python, backend development, and problem-solving. With a keen interest in full-stack development, I am expanding my expertise in frontend technologies to build seamless, user-centric applications.
 </p>
   
 <br>
